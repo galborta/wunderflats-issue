@@ -68,15 +68,76 @@
 - **From:** Valerie (valcbold@gmail.com)
 - **To:** the.coudray@gmail.com
 - **CC:** support@wunderflats.com, service@wunderflats.com
-- **Summary:** **MISE EN DEMEURE SENT.** Formal legal notice to landlord citing Art. 6 Loi 89-462 and Art. 1218 Cc. Demanded keys by June 8 at 12:00 or written compensation proposal. Stated consequences: lease termination at landlord's fault, référé proceedings, DGCCRF complaint. Included current temporary address (16 rue de la Chaussée d'Antin, 75009 Paris).
+- **Summary:** MISE EN DEMEURE SENT. Formal legal notice to landlord citing Art. 6 Loi 89-462 and Art. 1218 Cc. Demanded keys by June 8 at 12:00 or written compensation proposal. Stated consequences: lease termination at landlord's fault, référé proceedings, DGCCRF complaint. Included current temporary address (16 rue de la Chaussée d'Antin, 75009 Paris).
 - **Deadline given to landlord:** June 8, 2026 at 12:00
-- **Evidence:** Sent email ✅ — **SCREENSHOT AND SAVE WITH TIMESTAMP**
-- **Follow-up required:** Send same text via ar24.fr registered electronic letter TODAY.
+- **Evidence:** Sent email ✅
 
 ---
 
-## ⚠️ WUNDERFLATS RESPONSE STATUS: ZERO WRITTEN RESPONSE after 3 emails + 1 phone call over 4 days.
-## ✅ MISE EN DEMEURE TO COUDRAY: SENT June 2, 2026 by email.
+## Entry 007 ✅
+- **Date:** June 3, 2026
+- **Channel:** Email (inbound)
+- **From:** Sophie Kalbfleisch — support@wunderflats.com
+- **To:** Valerie (valcbold@gmail.com)
+- **Summary:** FIRST WRITTEN RESPONSE FROM WUNDERFLATS after 3 emails + 1 phone call since May 31. Confirmed water damage rendering apartment uninhabitable. Confirmed M. Coudray did not sign the contract because of the damage. Proposed two options: (1) new contract June 15 entry, (2) cancel and search. Requested Valerie's phone number.
+- **⚠️ LEGAL SIGNIFICANCE:** Written admission by Wunderflats that (a) apartment was uninhabitable, (b) landlord did not sign contract, (c) Wunderflats collected payment despite knowing contract was not executed.
+- **Evidence:** Email ✅ — SAVE IMMEDIATELY
+
+---
+
+## Entry 008 ✅
+- **Date:** June 3, 2026
+- **Channel:** Email (outbound)
+- **From:** Valerie (valcbold@gmail.com)
+- **To:** support@wunderflats.com
+- **Summary:** Strategic reply. Documented Wunderflats' silence (first written contact = day before contractual move-in). Noted payment made in good faith assuming contract was fully executed. Noted that if landlord had not signed, it was Wunderflats' responsibility to inform Valerie before processing payment. Accepted June 15 move-in on ONE condition: same monthly rent, prorata payment covering only days from June 15 onwards. Declined phone contact — all communications by email.
+- **Promises made:** None by Wunderflats yet.
+- **Evidence:** Sent email ✅
+
+---
+
+## Entry 009 ✅ CRITICAL
+- **Date:** June 3, 2026
+- **Channel:** Email (inbound)
+- **From:** Nourhene Ajmi — support@wunderflats.com
+- **To:** Valerie (valcbold@gmail.com)
+- **Summary:** WUNDERFLATS ACCEPTED ALL CONDITIONS IN WRITING.
+  - Confirmed June 15 move-in date
+  - Confirmed same monthly rent as originally agreed
+  - Confirmed prorata payment for June 15–30 only (not full month)
+  - Confirmed all exchanges by email going forward
+  - Apologised for lack of communication (colleague had family emergency)
+  - Noted Valerie's remarks on payment/signature process to "improve their processes"
+- **⚠️ LEGAL SIGNIFICANCE:** Written acceptance of prorata terms. Written acknowledgment of communication failure. Written acknowledgment of payment/signature process issue. THIS EMAIL IS EVIDENCE FOR FUTURE AIRBNB COST CLAIM.
+- **Evidence:** Email ✅ — SAVE IMMEDIATELY
+
+---
+
+## Entry 010 ⚠️
+- **Date:** June 5, 2026
+- **Channel:** Email (inbound)
+- **From:** Nourhene Ajmi — support@wunderflats.com
+- **To:** Valerie (valcbold@gmail.com)
+- **Summary:** NEW CONTRACT SENT — WRONG TYPE. Contract is "bail d'habitation résidence secondaire" (Civil Code) instead of bail mobilité (Loi 89-462). Key problems: (1) strips all Loi 89-462 tenant protections, (2) demands €2,125 security deposit — illegal under bail mobilité, (3) base rent changed from €1,949 to €2,005, (4) Coudray birth date listed as 19/09/2025 (error).
+- **Action taken:** Rejected by Valerie — see Entry 011.
+- **Evidence:** Contract document ✅
+
+---
+
+## Entry 011 ✅
+- **Date:** June 5, 2026
+- **Channel:** Email (outbound)
+- **From:** Valerie (valcbold@gmail.com)
+- **To:** Nourhene Ajmi — support@wunderflats.com
+- **Summary:** Rejected new contract. Demanded corrected bail mobilité identical to May 26 original with only the start date changed to June 15. Rejected security deposit demand. Confirmed no additional payment due at key handover. Requested refund of prorata overpayment.
+- **Evidence:** Sent email ✅
+
+---
+
+## ⚠️ OUTSTANDING ITEMS
+- Corrected bail mobilité contract: PENDING from Wunderflats
+- Prorata overpayment refund: PENDING
+- Airbnb cost reimbursement (~€2,000+): TO BE PURSUED after move-in
 
 ---
 
@@ -93,13 +154,3 @@
 - **Evidence:**
 - **Follow-up required:**
 ```
-
----
-
-## Pro Tip: Paper Trail Emails
-
-After every phone call or WhatsApp conversation, send an email immediately:
-
-> "Following our conversation today at [time], you confirmed that: [summary]. Please let me know if I have misunderstood anything."
-
-Silence = acceptance. This converts verbal statements into written evidence.

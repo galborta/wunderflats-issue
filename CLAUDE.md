@@ -4,17 +4,18 @@
 
 ---
 
-## 🔴 Current Status (last updated: 2026-06-02)
+## 🟡 Current Status (last updated: 2026-06-05)
 
 | Item | Status |
 |---|---|
-| Lease start date | **June 4, 2026** (contractual) |
-| Apartment available? | **NO** — water damage, landlord says ≥ June 15 |
-| Formal written notice sent to landlord? | ❌ NOT YET — **Priority #1** |
-| Formal complaint to Wunderflats (written)? | ❌ NOT YET — **Priority #2** |
-| French support team response received? | ❌ NO — only phone, no email |
-| Legal escalation initiated? | ❌ Not yet |
-| Rent paid? | ✅ Yes, via Wunderflats platform |
+| Lease start date | **June 15, 2026** (confirmed by Wunderflats in writing) |
+| Apartment available? | Confirmed June 15 |
+| Prorata rent agreed? | ✅ YES — June 15–30 only, same monthly rate |
+| Corrected bail mobilité received? | ❌ NO — wrong contract sent, rejected June 5 |
+| No extra payment at key handover? | ✅ Confirmed in writing |
+| Prorata overpayment refund? | ⏳ PENDING |
+| Airbnb cost reimbursement (~€2,000+)? | 🔜 To pursue AFTER move-in |
+| Legal escalation initiated? | ❌ Not needed yet |
 
 ---
 
@@ -41,34 +42,25 @@ wunderflats-issue/
 
 ## ⚡ Next Actions (Priority Order)
 
-### TODAY or TOMORROW (before June 4)
+### IMMEDIATE
 
-1. **Send `letters/01-mise-en-demeure-landlord-FR.md` by email AND registered letter (LRAR)**
-   - This creates the legal paper trail. French law requires written notice.
-   - Send to Christopher Coudray. His wife called you but he is the legal contracting party.
-   - Email is acceptable as a first step; registered letter (Lettre recommandée AR) confirms receipt.
-   - You can send LRAR online at ar24.fr or lettre-recommandee.fr in minutes.
+1. **Wait for corrected bail mobilité** — Wunderflats must resend as bail mobilité (Loi 89-462), not résidence secondaire (Civil Code)
+2. **When new contract arrives — check these before signing:**
+   - Contract type = bail mobilité ✓
+   - Start date = June 15, 2026 ✓
+   - End date = October 11, 2026 ✓ (unchanged)
+   - Monthly rent = €2,205 (€1,949 + €256 charges) ✓
+   - NO security deposit ✓ (prohibited under bail mobilité)
+   - No new payment required at key handover ✓
+3. **On move-in day (June 15):** Do a thorough état des lieux (inventory). Photograph everything. Note any remaining water damage. Do not sign if apartment is still not fully repaired.
 
-2. **Send `letters/02-complaint-wunderflats-EN.md` to Wunderflats by email**
-   - CC their support email + any ticket reference you have.
-   - Subject line matters — use exactly what's in the letter.
-   - This activates their obligation under their platform terms and consumer protection rules.
+### AFTER MOVE-IN (June 16+)
 
-3. **Document everything** — see `evidence/README.md`
-
-### THIS WEEK (June 2–7)
-
-4. **Secure alternative accommodation** — keep ALL receipts, these are recoverable.
-
-5. **Follow up Wunderflats in writing if no response within 24h** — escalate explicitly to their legal/trust-and-safety team.
-
-6. **If no resolution by June 7:** file with Conciliation — use `letters/03-conciliation-request-TEMPLATE.md`
-
-### IF STILL UNRESOLVED AFTER JUNE 15
-
-7. **Tribunal judiciaire de Paris (juge des référés)**
-   - Emergency interim judge can order access or damages within days.
-   - You have a strong case: binding contract, non-delivery, documented.
+4. **File Airbnb cost reimbursement claim** — you have all the evidence:
+   - Wunderflats' written admission of silence
+   - Their acknowledgment of payment/signature process failure
+   - Your Airbnb receipts (~€2,000+)
+   - 150€/night Airbnb costs June 4–15
 
 ---
 
@@ -90,12 +82,12 @@ Update the **Current Status** table at the top of this file when something chang
 
 | Party | Contact | Notes |
 |---|---|---|
-| Landlord | Christopher Coudray | IBAN FR76 1751 5900 0004 2347 0454 631 — his wife called but he is the legal party |
-| Platform | Wunderflats | Germany HQ, French team promised but never contacted you |
-| Your housing | TBD — find backup now | |
+| Landlord | Christopher Coudray — the.coudray@gmail.com | IBAN FR76 1751 5900 0004 2347 0454 631 |
+| Platform (main contact) | Nourhene Ajmi — support@wunderflats.com | Currently handling the case |
+| Platform (previous) | Sophie Kalbfleisch — support@wunderflats.com | Sent first written response June 3 |
 
 ---
 
 ## ⚖️ Your Position in One Sentence
 
-You have a signed, legally binding bail mobilité under French law (Loi n°89-462). The landlord has confirmed in a recorded voicemail that he cannot deliver the apartment on the contractual date. **You are the aggrieved party with a strong legal position. Do not negotiate away your rights under pressure.**
+You have a signed bail mobilité, Wunderflats has accepted June 15 move-in and prorata terms in writing, and you have documented evidence of platform failure (silence, unsigned contract, payment processing) for a future Airbnb cost reimbursement claim. **Do not sign any contract that is not a bail mobilité. Do not pay anything additional at key handover.**
