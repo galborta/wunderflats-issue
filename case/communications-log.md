@@ -118,7 +118,16 @@
 - **Channel:** Email (inbound)
 - **From:** Nourhene Ajmi — support@wunderflats.com
 - **To:** Valerie (valcbold@gmail.com)
-- **Summary:** NEW CONTRACT SENT — WRONG TYPE. Contract is "bail d'habitation résidence secondaire" (Civil Code) instead of bail mobilité (Loi 89-462). Key problems: (1) strips all Loi 89-462 tenant protections, (2) demands €2,125 security deposit — illegal under bail mobilité, (3) base rent changed from €1,949 to €2,005, (4) Coudray birth date listed as 19/09/2025 (error).
+- **Summary:** NEW CONTRACT SENT — WRONG TYPE. Contract is "bail d'habitation résidence secondaire" (Civil Code) instead of bail mobilité (Loi 89-462). Key problems identified:
+  1. Wrong legal framework — explicitly excludes Loi 89-462 protections (Article 1 of contract)
+  2. Security deposit €2,125 demanded (Article 11) — ILLEGAL under bail mobilité
+  3. Base rent changed from €1,949 to €2,005 — violates June 3 written agreement
+  4. Article 3 / Article 16: apartment cannot be used as principal residence — automatic termination trigger
+  5. Article 17: occupancy indemnity at 2x daily rent if tenant overstays by even one day
+  6. Penalty clause: 5% per month on late payments
+  7. IBAN not provided — bank details "to be communicated later" making timely payment impossible
+  8. Cleaning fee €125 at end of contract — not agreed
+  9. Coudray birth date listed as 19/09/2025 — document appears hastily or carelessly drafted
 - **Action taken:** Rejected by Valerie — see Entry 011.
 - **Evidence:** Contract document ✅
 
@@ -134,10 +143,37 @@
 
 ---
 
+## Entry 012 ⚠️
+- **Date:** June 8, 2026
+- **Channel:** Email (inbound)
+- **From:** Amira Ben Khelifa — Wunderflats Account Manager France (+33184621359)
+- **To:** Valerie
+- **Initiated by:** Valerie (had to contact support herself — no proactive contact from Wunderflats since June 5 rejection)
+- **Summary:** EVASIVE NON-RESPONSE. Confirmed only that first month's rent payment has been secured and will be sent to the landlord 48 hours after move-in. Made NO reference to the contract type dispute, the illegal security deposit, or any of the issues raised in Entry 011. This response does not address the substance of the inquiry in any way.
+- **⚠️ SIGNIFICANCE:** Wunderflats went silent from June 5–8 (3 days). Valerie had to chase. When she did, Wunderflats deliberately avoided the contract dispute in their reply. Pattern of evasion is now documented across multiple entries.
+- **Evidence:** Email ✅
+
+---
+
+## Entry 013 ⚠️ BAD FAITH
+- **Date:** June 8, 2026
+- **Channel:** Phone call (inbound)
+- **From:** Wunderflats representative (name unknown)
+- **To:** Valerie
+- **In breach of:** Explicit written request for email-only communication (Entry 008, Entry 009 confirmed)
+- **Summary:** Wunderflats called despite written instruction to communicate by email only. Representative stated that the landlord wants to issue a contrat de résidence secondaire instead of bail mobilité. When Valerie objected, representative said words to the effect of: **"what's the problem for the tenant if it's another contract?"** — indicating either ignorance of or deliberate dismissal of the material legal differences between the two frameworks.
+- **Valerie's response:** Explained that the contract type carries fundamentally different rights and obligations and that she had made payment on the basis of a bail mobilité.
+- **⚠️ LEGAL SIGNIFICANCE:** (1) Phone call itself is a breach of written communication instruction. (2) Wunderflats is now actively facilitating the landlord's attempt to substitute a legally inferior contract. (3) The representative's comment is documented evidence that Wunderflats was aware of the dispute and chose to dismiss it verbally rather than address it in writing. (4) This phone call, combined with the evasive Entry 012 email, establishes a clear pattern of bad faith.
+- **Follow-up:** Formal notice email sent to Nourhene Ajmi, Sophie Kalbfleisch, CC: Jan Hase (CEO) and Gabriel Brüser (MD France) — see letters/04-formal-notice-june8-EN.md and letters/04-formal-notice-june8-FR.md
+- **Evidence:** Phone call — note date, time, and content. ✅
+
+---
+
 ## ⚠️ OUTSTANDING ITEMS
-- Corrected bail mobilité contract: PENDING from Wunderflats
+- Corrected bail mobilité contract: PENDING — deadline given June 10, 2026
 - Prorata overpayment refund: PENDING
 - Airbnb cost reimbursement (~€2,000+): TO BE PURSUED after move-in
+- CEO / MD France now CC'd on formal notice as of June 8, 2026
 
 ---
 

@@ -55,36 +55,41 @@
 
 ### 2026-06-03
 - **Valerie replied to Wunderflats** — non-confrontational, strategic email
-  - Documented their silence (first written contact = day before contractual move-in)
-  - Noted payment made in good faith assuming contract was fully executed
-  - Noted Wunderflats' responsibility for processing payment before landlord signed
-  - Accepted June 15 move-in subject to ONE condition: same monthly rent, payment covering only days from June 15
-  - Requested all communications by email only
+  - Documented their silence
+  - Accepted June 15 move-in: same rent, prorata June 15–30 only, email-only communication
   - Evidence: sent email ✅
 
 ### 2026-06-03
-- **Wunderflats replied — ACCEPTED ALL CONDITIONS** — from Nourhene Ajmi
-  - Confirmed June 15 move-in date
-  - Confirmed same monthly rent
-  - Confirmed prorata payment for June 15–30 only
-  - Confirmed all exchanges by email going forward
-  - Evidence: email ✅ — **CRITICAL DOCUMENT, SAVE IMMEDIATELY**
+- **Wunderflats replied — ACCEPTED ALL CONDITIONS IN WRITING** — from Nourhene Ajmi
+  - Confirmed June 15 move-in, same rent, prorata June 15–30, email-only
+  - Evidence: email ✅ — **CRITICAL DOCUMENT**
 
 ### 2026-06-05
-- **Wunderflats sent new contract** — PROBLEMATIC, do not sign
-  - Contract type changed from bail mobilité → bail de résidence secondaire (Civil Code)
-  - New contract explicitly EXCLUDES Loi 89-462 protections
-  - Security deposit of €2,125 demanded — ILLEGAL under bail mobilité
-  - Base rent changed from €1,949 to €2,005 (total still €2,205)
-  - Coudray birth date listed as 19/09/2025 — clear error
+- **Wunderflats sent new contract** — REJECTED
+  - Wrong type: bail résidence secondaire instead of bail mobilité
+  - Illegal security deposit €2,125 (Article 11)
+  - Rent changed from €1,949 to €2,005
+  - No IBAN provided
+  - Coudray DOB listed as 19/09/2025 (error)
   - Evidence: contract document ✅
 
 ### 2026-06-05
-- **Valerie replied rejecting new contract** — sent to Nourhene Ajmi (support@wunderflats.com)
-  - Demanded bail mobilité format as per original May 26 contract
-  - Rejected security deposit demand (prohibited under bail mobilité)
-  - Confirmed no additional payment due at key handover
-  - Requested refund of overpayment per prorata calculation
+- **Valerie rejected contract in writing** — sent to Nourhene Ajmi
+  - Demanded corrected bail mobilité, no deposit, no extra payment
+  - Evidence: sent email ✅
+
+### 2026-06-08 ⚠️ BAD FAITH PATTERN ESTABLISHED
+- **Wunderflats silent June 5–8** — Valerie forced to chase support herself
+- **Amira Ben Khelifa replied** — confirmed payment mechanics only, ignored contract dispute entirely
+- **Phone call received from Wunderflats** — IN BREACH of written email-only instruction
+  - Rep stated landlord wants résidence secondaire contract
+  - Rep said: "what's the problem for the tenant if it's another contract?"
+  - Valerie explained material difference in rights/obligations
+- **Formal notice sent** — to Nourhene Ajmi + Sophie Kalbfleisch
+  - **CC: Jan Hase (CEO) jan.hase@wunderflats.com**
+  - **CC: Gabriel Brüser (MD France) gabriel.bruser@wunderflats.com**
+  - Deadline: June 10, 2026 for corrected bail mobilité
+  - Escalation threats named: DGCCRF, juge des référés, EU ADR mediateur
   - Evidence: sent email ✅
 
 ---
@@ -95,6 +100,8 @@
 - [x] First written response from Wunderflats — June 3, 2026
 - [x] Wunderflats accepted June 15 + prorata — June 3, 2026
 - [x] New contract received and rejected — June 5, 2026
+- [x] Formal notice to Wunderflats + CEO + MD France — June 8, 2026
+- [ ] Response to formal notice — DEADLINE June 10, 2026
 - [ ] Corrected bail mobilité contract received — DATE: ___
 - [ ] Contract signed — DATE: ___
 - [ ] Keys received — DATE: ___
@@ -118,5 +125,8 @@
 | June 4, 2026 | Contractual move-in date — apartment not delivered |
 | June 5, 2026 | New contract received — wrong type, rejected |
 | June 5, 2026 | ✅ Rejection of new contract sent to Wunderflats |
-| **June 15, 2026** | **Confirmed new move-in date** |
+| June 8, 2026 | Wunderflats evasive reply + phone call in bad faith |
+| June 8, 2026 | ✅ Formal notice sent — CEO + MD France CC'd |
+| **June 10, 2026** | **DEADLINE — corrected bail mobilité required** |
+| **June 15, 2026** | **Confirmed move-in date** |
 | October 11, 2026 | Lease end date |
