@@ -80,7 +80,7 @@
 
 ### 2026-06-08 ⚠️ BAD FAITH PATTERN ESTABLISHED
 - **Wunderflats silent June 5–8** — Valerie forced to chase support herself
-- **Amira Ben Khelifa replied** — confirmed payment mechanics only, ignored contract dispute entirely
+- **Amira Ben Khelifa replied** — confirmed payment mechanics only (funds held, released to landlord 48h after move-in), ignored contract dispute entirely
 - **Phone call received from Wunderflats** — IN BREACH of written email-only instruction
   - Rep stated landlord wants résidence secondaire contract
   - Rep said: "what's the problem for the tenant if it's another contract?"
@@ -89,8 +89,32 @@
   - **CC: Jan Hase (CEO) jan.hase@wunderflats.com**
   - **CC: Gabriel Brüser (MD France) gabriel.bruser@wunderflats.com**
   - Deadline: June 10, 2026 for corrected bail mobilité
-  - Escalation threats named: DGCCRF, juge des référés, EU ADR mediateur
+  - Escalation threats named: DGCCRF, juge des référés, médiateur
   - Evidence: sent email ✅
+
+### 2026-06-10 ⚠️ DEFLECTION (~1:13 PM)
+- **Amira Ben Khelifa email** replying to a Yousign "Bail Civil" signature request
+  - Addressed ONLY start date + prorata (never in dispute); ignored contract type, deposit, rent
+  - Attempt to get the rejected civil lease signed via Yousign
+  - Evidence: email + Yousign doc ✅
+
+### 2026-06-10 ✅ PIVOT — TERMINATION + FULL REFUND
+- **June 10 deadline expired** with no conforming bail mobilité
+- **Valerie sent termination + full refund demand** — résolution aux torts exclusifs (Art. 1224–1226 Cc)
+  - Tenant no longer pursuing the apartment
+  - Demanded full restitution of all sums paid + all accommodation costs since June 4
+  - Demanded freeze: no release of funds to landlord until conforming lease signed + keys handed over
+  - CC: CEO + MD France. See letters/05
+  - Evidence: sent email ✅
+
+### 2026-06-10 ⚠️ CRITICAL — WRITTEN ADMISSION (5:46 PM)
+- **Amira reply, CC Jan Hase (CEO)**
+  - Apology for "communication issues"
+  - **ADMITTED** they switched bail mobilité → bail civil specifically because the civil lease lets them charge a deposit; admitted the change was not clearly communicated; blamed the landlord
+  - "Wrong phone number / we tried to call" narrative — rejected, email-only was requested in writing
+  - Routed the refund to the "competent team," response promised by end of week
+  - Reframed the matter as the tenant's "cancellation/refund request" — FRAMING TO BE REJECTED (see letters/06)
+  - Evidence: email ✅ — highest-value document in the case
 
 ---
 
@@ -101,12 +125,15 @@
 - [x] Wunderflats accepted June 15 + prorata — June 3, 2026
 - [x] New contract received and rejected — June 5, 2026
 - [x] Formal notice to Wunderflats + CEO + MD France — June 8, 2026
-- [ ] Response to formal notice — DEADLINE June 10, 2026
-- [ ] Corrected bail mobilité contract received — DATE: ___
-- [ ] Contract signed — DATE: ___
-- [ ] Keys received — DATE: ___
-- [ ] Prorata refund received — AMOUNT / DATE: ___
-- [ ] Airbnb cost reimbursement claim filed — DATE: ___
+- [x] Response to formal notice — June 10, 2026 (deflection, then admission)
+- [x] Termination + full refund demand sent — June 10, 2026
+- [ ] Reply rejecting "cancellation" framing sent — DATE: ___
+- [ ] Wunderflats "competent team" response — DEADLINE end of week (~Fri June 13)
+- [ ] Written confirmation funds NOT released to landlord — DATE: ___
+- [ ] Full refund received — AMOUNT / DATE: ___
+- [ ] ECC France complaint filed (if not paid) — DATE: ___
+- [ ] ~~Corrected bail mobilité received~~ — N/A, housing abandoned
+- [ ] ~~Keys received~~ — N/A, housing abandoned
 
 ---
 
@@ -127,6 +154,9 @@
 | June 5, 2026 | ✅ Rejection of new contract sent to Wunderflats |
 | June 8, 2026 | Wunderflats evasive reply + phone call in bad faith |
 | June 8, 2026 | ✅ Formal notice sent — CEO + MD France CC'd |
-| **June 10, 2026** | **DEADLINE — corrected bail mobilité required** |
-| **June 15, 2026** | **Confirmed move-in date** |
-| October 11, 2026 | Lease end date |
+| June 10, 2026 | Amira deflection email + Yousign "Bail Civil" |
+| June 10, 2026 | ✅ Termination + full refund demand sent (Art. 1224–1226) |
+| June 10, 2026 | ⚠️ Wunderflats written admission of deliberate contract switch; refund routed to "competent team" |
+| ~June 13, 2026 | Expected Wunderflats refund response (end of week) |
+| ~~June 15, 2026~~ | ~~Confirmed move-in date~~ — N/A, housing abandoned |
+| October 11, 2026 | Original lease end date |

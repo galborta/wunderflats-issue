@@ -4,19 +4,28 @@
 
 ---
 
-## 🔴 Current Status (last updated: 2026-06-08)
+## 🔴 Current Status (last updated: 2026-06-10)
+
+**TRACK: REFUND.** Tenant has abandoned the apartment and is pursuing a full refund + costs. Housing is no longer the objective.
 
 | Item | Status |
 |---|---|
-| Lease start date | **June 15, 2026** (confirmed by Wunderflats in writing) |
-| Apartment available? | Confirmed June 15 |
-| Prorata rent agreed? | ✅ YES — June 15–30 only, same monthly rate |
-| Corrected bail mobilité received? | ❌ NO — wrong contract sent June 5, rejected. Deadline: **June 10** |
-| No extra payment at key handover? | ✅ Confirmed in writing (June 3) |
-| Prorata overpayment refund? | ⏳ PENDING |
-| Airbnb cost reimbursement (~€2,000+)? | 🔜 To pursue AFTER move-in |
-| Legal escalation initiated? | ⚠️ FORMAL NOTICE SENT — CEO + MD France CC'd. Deadline June 10. |
-| Bad faith pattern documented? | ✅ YES — evasion, phone call in breach, illegal deposit clause |
+| Objective | **Full refund of all sums paid + accommodation costs** |
+| Housing / move-in | ❌ ABANDONED — no longer pursuing the apartment |
+| Corrected bail mobilité | N/A — June 10 deadline expired; tenant elected to terminate instead |
+| Termination notified? | ✅ YES — résolution aux torts exclusifs, Art. 1224–1226 Cc (June 10) |
+| Full refund demanded? | ✅ YES — within 8 days; all sums + accommodation costs |
+| Wunderflats response | ⏳ "Competent team" to revert by end of week (~Fri June 13) — CEO Jan Hase now engaged |
+| Funds released to landlord? | ⚠️ Wunderflats put on notice NOT to release — get written confirmation |
+| Cancellation framing | ⚠️ Wunderflats called it tenant's "cancellation" — MUST reject in writing (letters/06) |
+| Written admission obtained? | ✅ YES — June 10 5:46 PM: admitted switching contract type to charge a deposit (Entry 016) |
+| Bad faith pattern documented? | ✅ YES — 16 log entries |
+
+---
+
+## 🔑 The Single Best Piece of Evidence
+
+Entry 016 (June 10, 5:46 PM, CC the CEO): Wunderflats admitted **in writing** that they switched the contract from bail mobilité to bail civil *specifically because a bail civil lets them charge a security deposit*, and that the change was not clearly communicated. This is direct evidence of a misleading commercial practice (art. L121-2 Code de la consommation) and kills any "honest mistake" defence. SAVE THIS EMAIL.
 
 ---
 
@@ -28,15 +37,17 @@ wunderflats-issue/
 ├── case/
 │   ├── legal-analysis.md      ← Your rights under French law, what you're owed
 │   ├── timeline.md            ← Chronological log of ALL events
-│   ├── communications-log.md  ← Every call, email, message — with dates
-│   └── financial-tracker.md  ← Money at stake, what to claim, how to calculate
+│   ├── communications-log.md  ← Every call, email, message — with dates (16 entries)
+│   └── financial-tracker.md   ← Money at stake, what to claim, how to calculate
 ├── letters/
 │   ├── 01-mise-en-demeure-landlord-FR.md    ← Formal notice to landlord (French)
 │   ├── 01-mise-en-demeure-landlord-EN.md    ← Same, English reference
 │   ├── 02-complaint-wunderflats-EN.md       ← Formal complaint to platform
 │   ├── 03-conciliation-request-TEMPLATE.md  ← If needed: conciliation letter
 │   ├── 04-formal-notice-june8-EN.md         ← Formal notice June 8 (English) ✅ SENT
-│   └── 04-formal-notice-june8-FR.md         ← Formal notice June 8 (French) ✅ SENT
+│   ├── 04-formal-notice-june8-FR.md         ← Formal notice June 8 (French) ✅ SENT
+│   ├── 05-termination-refund-june10.md      ← Termination + full refund demand ✅ SENT (FR+EN)
+│   └── 06-reject-cancellation-framing.md    ← Reply rejecting "cancellation" framing (FR+EN) — TO SEND
 └── evidence/
     └── README.md              ← Instructions on what evidence to preserve
 ```
@@ -47,36 +58,26 @@ wunderflats-issue/
 
 ### IMMEDIATE
 
-1. **SEND formal notice email** (letters/04-formal-notice-june8-EN.md or FR.md)
-   - To: Nourhene Ajmi (support@wunderflats.com) + Sophie Kalbfleisch (support@wunderflats.com)
-   - CC: Jan Hase — jan.hase@wunderflats.com (CEO)
-   - CC: Gabriel Brüser — gabriel.bruser@wunderflats.com (MD France)
-   - Deadline stated in email: **June 10, 2026**
+1. **SEND the framing-correction reply** (letters/06). Short. Rejects "votre demande d'annulation" — this is a résolution at THEIR exclusive fault, not a voluntary tenant cancellation. Restates full refund + accommodation costs. Pins "end of this week" to a hard date (Fri June 13). Repeats: no release of funds to landlord; written communication only. Reserves référé + ECC France.
+   - To: Amira Ben Khelifa — CC: Ajmi, Kalbfleisch, Hase (CEO), Brüser (MD France)
 
-2. **Wait for response by June 10** — if no conforming bail mobilité received:
-   - File DGCCRF complaint online: https://signal.conso.gouv.fr
-   - Contact mediateur de la consommation
-   - Consult avocat for juge des référés filing
+2. **Get written confirmation that funds have NOT been released to the landlord.** They are held in escrow (Entry 012). This is the money you want back — do not let it move.
 
-3. **When corrected contract arrives — check EVERY clause before signing:**
-   - Contract type = bail mobilité (Loi 89-462) ✓
-   - Start date = June 15, 2026 ✓
-   - End date = October 11, 2026 ✓
-   - Monthly rent = €2,205 (€1,949 + €256 charges) ✓
-   - **ZERO security deposit** ✓ (prohibited under bail mobilité)
-   - No new payment required at key handover ✓
-   - No cleaning fee / or explicitly agreed amount only ✓
-   - IBAN provided for rent payment ✓
+3. **Confirm the exact total paid** (rent+charges €2,205 + platform service fee) from the booking confirmation; fill financial-tracker.md. Tally accommodation receipts since June 4.
 
-4. **On move-in day (June 15):** Thorough état des lieux. Photograph everything. Note any remaining water damage. Do not sign if apartment is still not fully repaired.
+4. **Do NOT sign the Yousign "Bail Civil" document.** Do not click anything in it beyond viewing.
 
-### AFTER MOVE-IN (June 16+)
+5. **Do NOT give them a phone number.** The "wrong number" line is narrative-building. Written-only.
 
-5. **File Airbnb cost reimbursement claim** — evidence in hand:
-   - Wunderflats' written admission of uninhabitability (Entry 007)
-   - Their written acceptance of all your terms (Entry 009)
-   - Your Airbnb receipts (~€2,000+ at ~€150/night June 4–15)
-   - Full documentation of bad faith pattern (Entries 010–013)
+### IF NO FULL REFUND BY ~FRI JUNE 13
+
+6. **File cross-border consumer complaint — ECC France** (Centre Européen des Consommateurs France): europe-consommateurs.eu, tel +33 (0)3 88 77 67 67 (Strasbourg, Franco-German centre, free). Handles France-vs-Germany disputes since Wunderflats is German (Wunderflats GmbH, Berlin HRB 164572, VAT DE300137841).
+   - ⚠️ The EU ODR platform (ec.europa.eu/consumers/odr) was SHUT DOWN 20 July 2025 — do NOT use it.
+   - ⚠️ SignalConso requires a French SIRET; check annuaire-entreprises.data.gouv.fr for a Wunderflats French établissement. If none, ECC France is the route.
+
+7. **Juge des référés, Tribunal judiciaire de Paris** — the only fast lever (days). Consult avocat. Use Entry 016 admission as the centrepiece.
+
+8. **Bank chargeback** — backup only, if paid by card. Hold it; they can simply return the escrowed funds without it.
 
 ---
 
@@ -99,14 +100,16 @@ Update the **Current Status** table at the top of this file when something chang
 | Party | Contact | Notes |
 |---|---|---|
 | Landlord | Christopher Coudray — the.coudray@gmail.com | IBAN FR76 1751 5900 0004 2347 0454 631 |
-| Platform (account manager) | Nourhene Ajmi — support@wunderflats.com | Handling the case; sent illegal contract |
+| Platform (account manager) | Nourhene Ajmi — support@wunderflats.com | Accepted terms June 3; later sent illegal contract |
 | Platform (previous) | Sophie Kalbfleisch — support@wunderflats.com | Sent first written response June 3 |
-| Platform (account manager FR) | Amira Ben Khelifa — support@wunderflats.com | Sent evasive reply June 8; tel +33184621359 |
-| **Platform CEO** | **Jan Hase — jan.hase@wunderflats.com** | **CC'd on formal notice June 8** |
+| Platform (account manager FR) | Amira Ben Khelifa — support@wunderflats.com | Deflection + admission June 10; tel +33184621359 |
+| **Platform CEO** | **Jan Hase — jan.hase@wunderflats.com** | **Engaged / CC'd from June 8; CC'd own team's admission June 10** |
 | **Platform MD France** | **Gabriel Brüser — gabriel.bruser@wunderflats.com** | **CC'd on formal notice June 8** |
+| Company registration | Wunderflats GmbH — Rosenstr. 16, 10178 Berlin | HRB 164572 (Charlottenburg); VAT DE300137841; reps Jan Hase, Arkadi Jampolski |
+| Cross-border body | ECC France — europe-consommateurs.eu | +33 (0)3 88 77 67 67 — free, Franco-German, for FR-vs-DE disputes |
 
 ---
 
 ## ⚖️ Your Position in One Sentence
 
-Wunderflats accepted all your terms in writing on June 3, then sent a contract on June 5 that violates every one of those terms including an illegal €2,125 deposit clause. You have documented bad faith across 13 log entries. You have a hard deadline of June 15 and no alternative housing. **Do not sign any contract that is not a bail mobilité. Do not pay any deposit. Do not pay anything additional at key handover.**
+Wunderflats accepted all your terms in writing on June 3, sent a non-conforming civil lease on June 5 with an illegal €2,125 deposit, evaded and breached your written-only instruction, blew the June 10 deadline, and then admitted in writing (CC the CEO) that they swapped the contract type specifically to charge a deposit — so you have terminated at their exclusive fault and demanded a full refund plus accommodation costs, the funds are still in their hands, and your job now is to (1) reject their "voluntary cancellation" framing in writing, (2) lock the money before it moves to the landlord, and (3) escalate to ECC France + juge des référés if they don't pay in full by end of week.
